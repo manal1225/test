@@ -1,1 +1,2 @@
-var name = prompt("what's your name?")
+var name = "hello"
+console.log(name)
